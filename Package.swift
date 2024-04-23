@@ -12,6 +12,6 @@ let package = Package(
         .library(name: "MobileVLCKit", targets: ["MobileVLCKit"]),
     ],
     targets: [
-        .binaryTarget(name: "MobileVLCKit", url: "https://github.com/freezy7/MobileVLCKit/releases/download/v3.6.0b11/MobileVLCKit.xcframework.zip", checksum: "ec151bcfee3370f1345234e9357a58a6ef5a58eaebaa027e44a20474ceb678e1")
+        .binaryTarget(name: "MobileVLCKit", url: "https://github.com/freezy7/MobileVLCKit/releases/download/3.6.0b11/MobileVLCKit.xcframework.zip", checksum: "ec151bcfee3370f1345234e9357a58a6ef5a58eaebaa027e44a20474ceb678e1")
     ]
 )
